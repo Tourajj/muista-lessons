@@ -1,0 +1,167 @@
+{
+  "format": "muista-lessons",
+  "version": 2,
+  "lesson": "Finnish A1 — Days 3 and 4",
+  "cards": [
+    {
+      "id": "d3-en-ole",
+      "front": "en ole",
+      "back": "I am not",
+      "exampleFi": "En ole väsynyt.",
+      "exampleEn": "I am not tired.",
+      "note": "Negative form of olla with minä (I).",
+      "type": "grammar",
+      "lesson": "Day 3"
+    },
+    {
+      "id": "d3-et-ole",
+      "front": "et ole",
+      "back": "you are not (singular)",
+      "exampleFi": "Et ole myöhässä.",
+      "exampleEn": "You are not late.",
+      "note": "Negative form of olla with sinä (you).",
+      "type": "grammar",
+      "lesson": "Day 3"
+    },
+    {
+      "id": "d3-ei-ole",
+      "front": "ei ole",
+      "back": "he/she/it is not",
+      "exampleFi": "Hän ei ole kotona.",
+      "exampleEn": "He/she is not at home.",
+      "note": "Negative form of olla with hän or se.",
+      "type": "grammar",
+      "lesson": "Day 3"
+    },
+    {
+      "id": "d3-emme-ole",
+      "front": "emme ole",
+      "back": "we are not",
+      "exampleFi": "Me emme ole valmiita.",
+      "exampleEn": "We are not ready.",
+      "note": "Negative form of olla with me (we).",
+      "type": "grammar",
+      "lesson": "Day 3"
+    },
+    {
+      "id": "d3-ette-ole",
+      "front": "ette ole",
+      "back": "you are not (plural)",
+      "exampleFi": "Te ette ole täällä.",
+      "exampleEn": "You (plural) are not here.",
+      "note": "Negative form of olla with te (you plural).",
+      "type": "grammar",
+      "lesson": "Day 3"
+    },
+    {
+      "id": "d3-eivat-ole",
+      "front": "eivät ole",
+      "back": "they are not",
+      "exampleFi": "He eivät ole kotona.",
+      "exampleEn": "They are not at home.",
+      "note": "Negative form of olla with he (they).",
+      "type": "grammar",
+      "lesson": "Day 3"
+    },
+    {
+      "id": "d3-vasynyt",
+      "front": "väsynyt",
+      "back": "tired",
+      "exampleFi": "Oletko väsynyt?",
+      "exampleEn": "Are you tired?",
+      "note": "An adjective frequently used with olla.",
+      "type": "vocabulary",
+      "lesson": "Day 3"
+    },
+    {
+      "id": "d3-nalkainen",
+      "front": "nälkäinen",
+      "back": "hungry",
+      "exampleFi": "Minä olen nälkäinen.",
+      "exampleEn": "I am hungry.",
+      "note": "A useful everyday adjective.",
+      "type": "vocabulary",
+      "lesson": "Day 3"
+    },
+    {
+      "id": "d4-minun",
+      "front": "minun",
+      "back": "my; of me",
+      "exampleFi": "Minun nimeni on Leo.",
+      "exampleEn": "My name is Leo.",
+      "note": "Genitive form of minä; standard possession may also require a possessive suffix.",
+      "type": "grammar",
+      "lesson": "Day 4"
+    },
+    {
+      "id": "d4-sinun",
+      "front": "sinun",
+      "back": "your; of you",
+      "exampleFi": "Mikä sinun nimesi on?",
+      "exampleEn": "What is your name?",
+      "note": "Genitive form of sinä.",
+      "type": "grammar",
+      "lesson": "Day 4"
+    },
+    {
+      "id": "d4-minulle",
+      "front": "minulle",
+      "back": "to me; for me",
+      "exampleFi": "Anna kirja minulle.",
+      "exampleEn": "Give the book to me.",
+      "note": "The -lle case often identifies a recipient.",
+      "type": "grammar",
+      "lesson": "Day 4"
+    },
+    {
+      "id": "d4-sinulle",
+      "front": "sinulle",
+      "back": "to you; for you",
+      "exampleFi": "Tämä on sinulle.",
+      "exampleEn": "This is for you.",
+      "note": "The -lle case often identifies a recipient.",
+      "type": "grammar",
+      "lesson": "Day 4"
+    },
+    {
+      "id": "d4-nimi",
+      "front": "nimi",
+      "back": "name",
+      "exampleFi": "Minun nimeni on Leo.",
+      "exampleEn": "My name is Leo.",
+      "note": "Standard: minun nimeni; common spoken: mun nimi.",
+      "type": "vocabulary",
+      "lesson": "Day 4"
+    },
+    {
+      "id": "d4-kirja",
+      "front": "kirja",
+      "back": "book",
+      "exampleFi": "Tämä on kirja.",
+      "exampleEn": "This is a book.",
+      "note": "Finnish has no articles a/an/the.",
+      "type": "vocabulary",
+      "lesson": "Day 4"
+    },
+    {
+      "id": "d4-lahja",
+      "front": "lahja",
+      "back": "gift",
+      "exampleFi": "Tämä lahja on sinulle.",
+      "exampleEn": "This gift is for you.",
+      "note": "Common with sinulle and minulle.",
+      "type": "vocabulary",
+      "lesson": "Day 4"
+    },
+    {
+      "id": "d4-antaa",
+      "front": "antaa",
+      "back": "to give",
+      "exampleFi": "Anna kirja minulle.",
+      "exampleEn": "Give the book to me.",
+      "note": "Anna is the singular imperative (give!), not a name in this sentence.",
+      "type": "vocabulary",
+      "lesson": "Day 4"
+    }
+  ]
+}
