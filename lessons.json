@@ -1,7 +1,7 @@
 {
   "format": "muista-lessons",
   "version": 2,
-  "lesson": "Finnish A1 — Days 3 and 4",
+  "lesson": "Finnish A1 — Days 3–5",
   "cards": [
     {
       "id": "d3-en-ole",
@@ -162,6 +162,86 @@
       "note": "Anna is the singular imperative (give!), not a name in this sentence.",
       "type": "vocabulary",
       "lesson": "Day 4"
+    },
+    {
+      "id": "d5-tama",
+      "front": "tämä",
+      "back": "this (one/thing)",
+      "exampleFi": "Tämä on kirja.",
+      "exampleEn": "This is a book.",
+      "note": "Use tämä to identify something; it is not a word for 'in this place'.",
+      "type": "grammar",
+      "lesson": "Day 5"
+    },
+    {
+      "id": "d5-tassa",
+      "front": "tässä",
+      "back": "here; in this exact spot",
+      "exampleFi": "Tässä on kirja.",
+      "exampleEn": "Here is a book.",
+      "note": "Use tässä for something right here, often pointing to it.",
+      "type": "grammar",
+      "lesson": "Day 5"
+    },
+    {
+      "id": "d5-taalla",
+      "front": "täällä",
+      "back": "here; in this area/place",
+      "exampleFi": "Minä olen täällä.",
+      "exampleEn": "I am here.",
+      "note": "Use täällä for a broader place or area.",
+      "type": "grammar",
+      "lesson": "Day 5"
+    },
+    {
+      "id": "d5-tama-on",
+      "front": "Tämä on Anna.",
+      "back": "This is Anna.",
+      "exampleFi": "Hei! Tämä on Anna.",
+      "exampleEn": "Hi! This is Anna.",
+      "note": "Tämä on... introduces or identifies someone.",
+      "type": "sentence",
+      "lesson": "Day 5"
+    },
+    {
+      "id": "d5-tassa-on",
+      "front": "Tässä on Anna.",
+      "back": "Here is Anna.",
+      "exampleFi": "Tässä on Anna.",
+      "exampleEn": "Here is Anna.",
+      "note": "Tässä on... introduces someone who is here.",
+      "type": "sentence",
+      "lesson": "Day 5"
+    },
+    {
+      "id": "d5-onko-taalla",
+      "front": "Onko täällä kahvila?",
+      "back": "Is there a café here?",
+      "exampleFi": "Onko täällä kahvila?",
+      "exampleEn": "Is there a café here?",
+      "note": "Onko = is there? Täällä refers to this area.",
+      "type": "sentence",
+      "lesson": "Day 5"
+    },
+    {
+      "id": "d5-mika-tama",
+      "front": "Mikä tämä on?",
+      "back": "What is this?",
+      "exampleFi": "Mikä tämä on? Tämä on kirja.",
+      "exampleEn": "What is this? This is a book.",
+      "note": "Mikä = what; tämä = this.",
+      "type": "sentence",
+      "lesson": "Day 5"
+    },
+    {
+      "id": "d5-tassa-kirja",
+      "front": "Tässä on minun kirjani.",
+      "back": "Here is my book.",
+      "exampleFi": "Tässä on minun kirjani.",
+      "exampleEn": "Here is my book.",
+      "note": "Review: tässä (here), minun kirjani (my book).",
+      "type": "sentence",
+      "lesson": "Day 5"
     }
   ]
 }
